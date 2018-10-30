@@ -1,0 +1,7 @@
+*.pdf
+/local
+/lib
+/include
+/dist
+/build
+/bin
